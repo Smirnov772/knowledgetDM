@@ -1,0 +1,86 @@
+
+
+p.MsoNormal,
+li.MsoNormal,
+div.MsoNormal {
+  margin: auto;
+  margin-bottom: 8pt;
+  margin-left: 0cm;
+  font-size: 11pt;
+  line-height: 107%;
+  font-family: "Calibri", sans-serif;
+}
+p.MsoFooter,
+li.MsoFooter,
+div.MsoFooter {
+  margin: 0cm;
+  font-size: 11pt;
+  font-family: "Calibri", sans-serif;
+}
+p.MsoListParagraph,
+li.MsoListParagraph,
+div.MsoListParagraph {
+  margin: auto;
+  margin-bottom: 8pt;
+  margin-left: 36pt;
+  line-height: 107%;
+  font-size: 11pt;
+  font-family: "Calibri", sans-serif;
+}
+p.MsoListParagraphCxSpFirst,
+li.MsoListParagraphCxSpFirst,
+div.MsoListParagraphCxSpFirst {
+  margin: auto;
+  margin-bottom: 0cm;
+  margin-left: 36pt;
+  line-height: 107%;
+  font-size: 11pt;
+  font-family: "Calibri", sans-serif;
+}
+p.MsoListParagraphCxSpMiddle,
+li.MsoListParagraphCxSpMiddle,
+div.MsoListParagraphCxSpMiddle {
+  margin: auto;
+  margin-bottom: 0cm;
+  margin-left: 36pt;
+  line-height: 107%;
+  font-size: 11pt;
+  font-family: "Calibri", sans-serif;
+}
+p.MsoListParagraphCxSpLast,
+li.MsoListParagraphCxSpLast,
+div.MsoListParagraphCxSpLast {
+  margin: auto;
+  margin-bottom: 8pt;
+  margin-left: 36pt;
+  line-height: 107%;
+  font-size: 11pt;
+  font-family: "Calibri", sans-serif;
+}
+
+.MsoChpDefault {
+  font-size: 11pt;
+  font-family: "Calibri", sans-serif;
+}
+.MsoPapDefault {
+  margin-bottom: 8pt;
+  line-height: 107%;
+}
+/* Page Definitions */
+@page WordSection1 {
+  size: 595.3pt 841.9pt;
+  margin: 36pt 36pt 36pt 36pt;
+}
+
+@page WordSection2 {
+  size: 595.3pt 841.9pt;
+  margin: 36pt 36pt 36pt 36pt;
+}
+
+
+ol {
+  margin-bottom: 0cm;
+}
+ul {
+  margin-bottom: 0cm;
+}
